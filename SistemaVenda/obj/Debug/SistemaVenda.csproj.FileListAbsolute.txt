@@ -1,0 +1,10 @@
+C:\Sistema Venda\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.Form1.resources
+C:\Sistema Venda\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.Properties.Resources.resources
+C:\Sistema Venda\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.csproj.GenerateResource.cache
+C:\Sistema Venda\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.csproj.CoreCompileInputs.cache
+C:\Sistema Venda\SistemaVenda\SistemaVenda\bin\Debug\SistemaVenda.exe.config
+C:\Sistema Venda\SistemaVenda\SistemaVenda\bin\Debug\SistemaVenda.exe
+C:\Sistema Venda\SistemaVenda\SistemaVenda\bin\Debug\SistemaVenda.pdb
+C:\Sistema Venda\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.exe
+C:\Sistema Venda\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.pdb
+C:\Sistema Venda\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.csprojAssemblyReference.cache
